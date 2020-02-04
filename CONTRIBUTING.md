@@ -3,7 +3,6 @@
 Looking to contribute something to Font Awesome? **Here's how you can help.**
 
 
-
 ## Reporting issues
 
 We only accept issues that are icon requests, bug reports, or feature requests. Bugs must be isolated and reproducible problems that we can fix within the Font Awesome core. Please read the following guidelines to ensure you are the paragon of bug reporting.
